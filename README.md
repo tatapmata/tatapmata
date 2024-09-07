@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @tatapmata
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+---
+title: NSFW Face Swap
+emoji: 📈
+colorFrom: gray
+colorTo: pink
+sdk: gradio
+sdk_version: 4.37.1
+app_file: app.py
+pinned: false
+license: agpl-3.0
+duplicated_from: ezioruan/roop
+tags:
+- not-for-all-audiences
+---
 
-<!---
-tatapmata/tatapmata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
